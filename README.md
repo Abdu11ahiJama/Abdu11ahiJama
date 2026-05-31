@@ -1,6 +1,6 @@
 <h1 align="center">Abdullahi Jama</h1>
 
-<p align="center">building software at the intersection of AI, cybersecurity, and cloud infrastructure</p>
+<p align="center">passionate engineer focused on AI, cybersecurity, and infrastructure</p>
 <p align="center">Computer Science @ University of Minnesota Twin Cities</p>
 
 <p align="center">
