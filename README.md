@@ -12,11 +12,6 @@
   </a>
 </p>
 
-## Projects
-
-* **Log Analyzer** — lightweight SIEM platform
-* **InsightBot** — RAG-powered assistant
-* **Manager** — full-stack productivity platform
 
 
 ## Stack
@@ -40,10 +35,3 @@
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
-
-## Currently Learning
-
-* Production Engineering
-* Cloud Infrastructure & DevOps
-* AI Systems & Retrieval-Augmented Generation (RAG)
-* Cybersecurity Monitoring & Detection Engineering
