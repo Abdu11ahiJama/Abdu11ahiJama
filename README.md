@@ -14,15 +14,12 @@
 
 ## Projects
 
-* **Log Analyzer** — lightweight SIEM platform for monitoring Linux authentication logs and detecting suspicious activity
-* **InsightBot** — RAG-powered assistant that enables natural language search across SEC filings
-* **Task Manager** — full-stack productivity platform with intelligent task prioritization and performance optimization
-* **Cloud & Security Labs** — hands-on projects exploring AWS, automation, monitoring, and infrastructure tooling
+* **Log Analyzer** — lightweight SIEM platform
+* **InsightBot** — RAG-powered assistant
+* **Manager** — full-stack productivity platform
+
 
 ## Stack
-
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-336791?style=flat\&logo=postgresql\&logoColor=white)
